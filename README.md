@@ -28,7 +28,7 @@ IT 职业技能图谱是由极客学院Wiki([国内专业的IT图文课程库](h
 
 - [Android 开发工程师](android.md)（author：[@jikexueyuanwiki](https://github.com/jikexueyuanwiki)）
 - PHP 开发工程师
-- 大数据工程师（author：[@blogchong](https://github.com/blogchong)）
+- [大数据工程师](BigData.md)（author：[@blogchong](https://github.com/blogchong)）
 - Java 开发工程师
 - iOS 开发工程师
 - 前端开发工程师
